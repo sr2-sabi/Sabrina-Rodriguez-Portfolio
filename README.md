@@ -1,34 +1,28 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
+- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/)
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
 
-# Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+## Portfolio
+This portfolio highlights my skills in data visualization, data refinement, and data critique, featuring selected work from course 94-870, Telling Stories with Data.
 
-# About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+## About me
+As a first-generation Afro-Latina, I have personally witnessed the barriers immigrant families face in accessing healthcare, particularly due to concerns about citizenship status. This experience has fueled my passion for advocating for equitable healthcare solutions.
 
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+At Allegheny College, I combined my interest in technology and policy through research projects, including a comparative analysis of peacekeeping efforts and the development of a data management program for educational resources.
 
-1. List item #1
-2. List item #2
-3. List item #3
+Currently, as a student at Carnegie Mellon University, I am focused on exploring the intersection of policy, technology, and healthcare. My primary interest lies in the ethical application of AI to enhance healthcare access for underserved communities. I am eager to collaborate with professionals who share a commitment to public service and social justice to drive impactful change.
 
-or...
+I am always eager to connect with professionals and organizations dedicated to driving social impact and advancing equity.
 
-- List item #1
-- List item #2
-- List item #3
+## What I hope to learn
+1. How to be creative using data visualizations
+2. Explore different data programs to expand my skillsets and understanding of data
+3. Develop the ability to translate complex datasets into clear, compelling narratives that can inform policy decisions and engage diverse audiences
 
-# Portfolio
+## Portfolio
 
-# Examples
+## Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
