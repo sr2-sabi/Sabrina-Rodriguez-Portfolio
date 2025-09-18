@@ -15,7 +15,7 @@ The primary audience for this visualization is likely general readers of blogs o
 In my redesign, I plan to focus on telling a clearer story with the data by breaking spending into categories such as family, friends, and coworkers. A multi-line chart with distinct colors for each group will help highlight the shift toward family spending and away from friends and coworkers. I also want to add annotations for key years like the 2008 recession and the COVID-19 pandemic in 2020, as well as adjust the y-axis to make trends easier to see. I am excited to experiment with color coding, direct line labels, and a more descriptive title so the audience can quickly grasp both the overall spending trend and the deeper story about changing priorities.
 
 ## Step three: Sketch a solution
-![Sketch of redesign](Image_250917_233608.jpeg)
+![Image_250917_233608](https://github.com/user-attachments/assets/4fade7ce-2ce7-4b59-aab6-a5fb1b06a9eb)
 
 ## Step four: Test the solution
 Questions to ask:
