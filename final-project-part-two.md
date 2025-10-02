@@ -87,6 +87,10 @@ Terrell, K. A., & Julien, G. St. (2023). Discriminatory outcomes of industrial a
 
 The Shocking Hazards of Louisiana’s Cancer Alley, Johns Hopkins Bloomberg School of Public Health. (2025, August 4). Johns Hopkins Bloomberg School of Public Health; Public Health on Call. https://publichealth.jhu.edu/2025/the-shocking-hazards-of-louisianas-cancer-alley
 
+Yudhi Prasetia. (2024, September 30). Innovating Petrochemicals: Powering Modern Industries. PetroSync Blog. https://www.petrosync.com/blog/petrochemical-plant/
+
+‌
+
 ## AI acknowledgements
 
 <img width="800" height="836" alt="chatgpt_proof of use" src="https://github.com/user-attachments/assets/65696128-a5a0-412f-9fb2-a27c3f444a9e" />
