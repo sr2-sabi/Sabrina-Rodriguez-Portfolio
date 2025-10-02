@@ -12,6 +12,8 @@ I have developed several draft visualizations that anchor my storyboard. The soc
 
 The next step will be to build a forecasting visualization for data centers that connects the lessons of Cancer Alley to present-day siting decisions. This will be paired with an overlay of demographic data, emphasizing inequities in exposure and health risks. The story will close with a policy-focused panel, where I translate the data into a clear set of recommendations for policymakers.
 
+I plan to use shorthand to deliver my story and begin with the history of Cancer Alley, I will focus on the growth of petrochemical facilities over time. I will demonstrate a timeline and how it increasingly continues to harm the communities nearby. I will then explain why these oil companies are building their facilities near these communities. I will then show statistics on the existing effects of petrochemical facilities on cancer rates (YOU ARE HERE) 
+
 # User research 
 
 ## Target audience
