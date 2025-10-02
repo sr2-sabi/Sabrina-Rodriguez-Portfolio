@@ -33,7 +33,7 @@ Do you think focusing on one cancer type is more powerful than showing overall c
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            | Said the story could stand out more if it compared future projections with past petrochemical impacts.            |Felt the visualization was impactful, but recommended adding more local data to ground the story.            |
+| Does the data make sense to you at first glance? | Talked about grounding the work  | Said the story could stand out more if it compared future projections with past petrochemical impacts.            |Felt the visualization was impactful, but recommended adding more local data to ground the story.            |
 | Which health outcomes feel most relevant?| Suggested focusing on cancers linked to air quality (lung, reproductive)|  Agreed with lung cancer, but also mentioned asthma and other respiratory issues.           |  Thought focusing only on cancer might be limiting, but still supported lung cancer as the main one           |
 | Would this be useful for advocacy or policy? | Yes, if it shows what policymakers can actually do about it.| Said it could be powerful for public awareness campaigns.            |Said it could influence policy if I pair it with specific recommendations.             |
 
