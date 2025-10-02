@@ -10,13 +10,7 @@ Second image: The Inspired map above is from “ArcGIS Dashboards.” Arcgis.com
 
 ## Drafted Visualizations
 
-I have developed several draft visualizations that anchor my storyboard. The socioeconomic comparison table shows that Cancer Alley has a much higher percentage of Black residents, lower income, and greater vulnerability compared to the state and national averages. The ArcGIS petrochemical facility map provides detail on specific plants, like Addis Carbon Black and BASF Geismar, and makes visible how these facilities cluster along the river. A second Cancer Alley distribution map uses color coding to highlight density across the tract.
-
-The next step will be to build a forecasting visualization for petrochemical plants that connects the lessons of Cancer Alley to present-day siting decisions. This will be paired with an overlay of demographic data, emphasizing inequities in exposure and health risks. The story will close with a policy-focused panel, where I translate the data into a clear set of recommendations for policymakers.
-
-I plan to use shorthand to deliver my story and begin with the history of Cancer Alley. I will focus on the growth of petrochemical facilities over time. I will demonstrate a timeline and how it continues to harm the communities nearby. I will then explain why these oil companies are building their facilities near these communities and then show statistics on the effects it has on the community, like causing cancer rates. The goal of this project is to forecast the implementation of policy and the positive effects it should have on the community. I will also show the worsening effects that building new datacenters and plants in this area will have over time. By the end of my storyboard, I will show what different community organizations have done to mitigate the problem, and eventually provide a mini policy brief on what politicians should focus on to prevent further damage. 
-
-# User research 
+I have developed several draft visualizations that anchor my storyboard. The socioeconomic comparison table shows that Cancer Alley has a much higher percentage of Black residents, lower income, and greater vulnerability compared to the state and national averages. The ArcGIS petrochemical facility map provides detail on specific plants, like Addis Carbon Black and BASF Geismar, and makes visible how these facilities cluster along the river. A second Cancer Alley distribution map uses color coding to highlight density across the tract. My next step is to build a forecasting visualization that carries lessons from Cancer Alley into present-day siting decisions, paired with demographic overlays to spotlight inequities. I’ll close with a policy panel that translates the visuals into actions. I will also focus on major cities that have been affected or will be affected like Virginia, Louisiana, and California. 
 
 ## Target audience
 
@@ -44,7 +38,6 @@ Do you think focusing on one cancer type is more powerful than showing overall c
 From my interviews, I learned that the story needs to be more focused and forward-looking. Multiple people said I should center the narrative on data centers as the main issue, while still connecting it back to Cancer Alley as an example of what happens when polluting facilities are allowed to cluster in vulnerable communities. Another big takeaway was the idea of adding a forecasting visualization that shows the potential health and environmental impacts of future data centers in urban areas. Interviewees felt this would make the story more urgent and relevant for policymakers.
 
 # Identified changes for Part III
-Based on my user interviews, I plan to adjust my project in several ways. The biggest change will be focusing more directly on data centers as the central story, while still drawing on Cancer Alley as a historical and comparative example. Interviewees also emphasized the importance of incorporating forecasting elements that highlight projected risks in urban areas, particularly if additional data centers are constructed. I will gather facility-level data (emissions, siting, demographic breakdowns) so the visualizations feel specific and grounded rather than general. Another change will be to improve clarity in the visualizations by adding labels, annotations, and clear takeaways that highlight what policymakers should pay attention to. While lung cancer will remain the primary health outcome, I will also explore including respiratory illnesses like asthma to capture the broader public health risks. Finally, I will close the story with concrete policy recommendations tied directly to the data, so that the visualizations don’t just inform but also point to clear actions.
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
@@ -53,7 +46,19 @@ Based on my user interviews, I plan to adjust my project in several ways. The bi
 | Some concern that focusing only on “cancer” might be limiting |Keep lung cancer as the primary health outcome, but consider adding respiratory outcomes like asthma to show broader impacts                                                                                 |
 | Policy usefulness depends on clear recommendation    | End the story with a set of concrete options (zoning rules, buffer zones, stronger permitting, etc.) tied directly to the data                                                                                |
 
-The interviews really helped me realize that my project needs to narrow its focus and feel more actionable. Instead of splitting attention equally between petrochemical facilities and Cancer Alley, I’ll make data centers the central case and use Cancer Alley as a supporting story that shows what happens when policymakers allow facilities to cluster in vulnerable areas. I’ll also shift from just showing static cancer risk data to building a forecasting visualization that projects future risks if siting practices don’t change. By adding facility-level examples, clearer annotations, and a final set of policy recommendations, I’ll ensure the story not only presents data but also directly points to what decision-makers can do differently.
+**What I’m changing (Part III plan)**
+
+I’m narrowing the core from “reproductive disorders in Cancer Alley” to a forward looking forecast of where petrochemical adjacent build out, including data centers, could create “next Cancer Alleys.” I’ll add a projection map and chart that estimate added exposure under plausible siting scenarios and elevate lung cancer as the primary health lens while considering respiratory outcomes to broaden relevance. The final section will translate evidence into action through concrete options, including zoning and buffers, EJ screening and cumulative impact review, targeted monitoring, and community benefits, so the work is immediately usable.
+
+**How I got here:**
+
+I began by exploring reproductive disorders in Cancer Alley, including preterm birth, low birth weight, fertility, and miscarriage, to link outcomes to proximity. After a data reality check, I found that public, small-area datasets for reproductive disorders were not accessible in a way that would support this project. I tried dashboards and ArcGIS layers, but many were non-exportable or too aggregated for the analysis I needed. I considered alternatives like preterm and low birth weight, but these still did not cleanly connect to what I was trying to connect.  That led me to pivot and use Cancer Alley as a case study to create a forecast of what happens when new facilities, especially data centers and related plants, are sited with the same patterns.
+
+**New focus**
+
+My new core question focuses on which neighborhoods become the next “Cancer Alley” in practice? I’ll take this approach, then extend it statewide or to other metros using baseline layers such as TRI and GHGRP facilities.
+
+For my visuals, I will present a baseline map of current facilities over a tract level risk surface with the corridor outlined, a scenario map showing added sites or expansion with a delta choropleth from “before” to “after,” a distribution chart of added population within one mile by race and income, a climate panel that summarizes added CO2 emissions under each scenario with low, medium, and high bands, and a ranked table of the top ten tracts with the largest air pollution. 
 
 ## References
 ArcGIS Dashboards. (2025). Arcgis.com. https://ft.maps.arcgis.com/apps/dashboards/6a14d723c6f14f2ebaa5d919296e07a5
