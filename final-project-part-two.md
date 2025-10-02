@@ -3,9 +3,10 @@
 # Wireframes/storyboards
 
 <img width="800" height="800" alt="cancer_alley_NEW" src="https://github.com/user-attachments/assets/72f9e889-59be-4ee4-851f-ba3d9fdc07a3" />
-Inspired map above is from “ArcGIS Dashboards.” Arcgis.com, 2025, ft.maps.arcgis.com/apps/dashboards/6a14d723c6f14f2ebaa5d919296e07a5. Accessed 2 Oct. 2025.
 <img width="800" height="517" alt="cancer_alley_map picture" src="https://github.com/user-attachments/assets/f69d858b-8443-460a-a4bf-d62701b10967" />
 <img width="800" height="405" alt="THIS ONE" src="https://github.com/user-attachments/assets/c7bbbbf9-e8cd-4199-9f5b-e9de9f77dd4e" />
+
+Second image: The Inspired map above is from “ArcGIS Dashboards.” Arcgis.com, 2025, ft.maps.arcgis.com/apps/dashboards/6a14d723c6f14f2ebaa5d919296e07a5. Accessed 2 Oct. 2025.
 
 **Draft Visualizations**
 
@@ -13,7 +14,7 @@ I have developed several draft visualizations that anchor my storyboard. The soc
 
 The next step will be to build a forecasting visualization for data centers that connects the lessons of Cancer Alley to present-day siting decisions. This will be paired with an overlay of demographic data, emphasizing inequities in exposure and health risks. The story will close with a policy-focused panel, where I translate the data into a clear set of recommendations for policymakers.
 
-I plan to use shorthand to deliver my story and begin with the history of Cancer Alley. I will focus on the growth of petrochemical facilities over time. I will demonstrate a timeline and how it continues to harm the communities nearby. I will then explain why these oil companies are building their facilities near these communities and then show statistics on the effects it has on the community like causing cancer rates. The goal of this project is to forecast the implementation of policy and the positive effects it should have on the community. I will also show the worsening effects building new datacenters and plants in this area will have over time. By the end of my storyboard, I will show what different community organizations have done to mitigate the problem, and eventually provide a mini policy brief on what politicians should focus on to prevent further damage. 
+I plan to use shorthand to deliver my story and begin with the history of Cancer Alley. I will focus on the growth of petrochemical facilities over time. I will demonstrate a timeline and how it continues to harm the communities nearby. I will then explain why these oil companies are building their facilities near these communities and then show statistics on the effects it has on the community, like causing cancer rates. The goal of this project is to forecast the implementation of policy and the positive effects it should have on the community. I will also show the worsening effects that building new datacenters and plants in this area will have over time. By the end of my storyboard, I will show what different community organizations have done to mitigate the problem, and eventually provide a mini policy brief on what politicians should focus on to prevent further damage. 
 
 # User research 
 
