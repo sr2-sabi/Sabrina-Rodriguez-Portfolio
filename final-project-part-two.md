@@ -2,13 +2,13 @@
 
 # Wireframes/storyboards
 
-<img width="800" height="800" alt="cancer_alley_NEW" src="https://github.com/user-attachments/assets/72f9e889-59be-4ee4-851f-ba3d9fdc07a3" />
+<img width="1000" height="800" alt="cancer_alley_NEW" src="https://github.com/user-attachments/assets/72f9e889-59be-4ee4-851f-ba3d9fdc07a3" />
 <img width="800" height="517" alt="cancer_alley_map picture" src="https://github.com/user-attachments/assets/f69d858b-8443-460a-a4bf-d62701b10967" />
 <img width="800" height="405" alt="THIS ONE" src="https://github.com/user-attachments/assets/c7bbbbf9-e8cd-4199-9f5b-e9de9f77dd4e" />
 
 Second image: The Inspired map above is from “ArcGIS Dashboards.” Arcgis.com, 2025, ft.maps.arcgis.com/apps/dashboards/6a14d723c6f14f2ebaa5d919296e07a5. Accessed 2 Oct. 2025.
 
-**Draft Visualizations**
+## Drafted Visualizations
 
 I have developed several draft visualizations that anchor my storyboard. The socioeconomic comparison table shows that Cancer Alley has a much higher percentage of Black residents, lower income, and greater vulnerability compared to the state and national averages. The ArcGIS petrochemical facility map provides detail on specific plants, like Addis Carbon Black and BASF Geismar, and makes visible how these facilities cluster along the river. A second Cancer Alley distribution map uses color coding to highlight density across the parishes.
 
@@ -60,7 +60,7 @@ ArcGIS Dashboards. (2025). Arcgis.com. https://ft.maps.arcgis.com/apps/dashboard
 
 Beckler, H., Ho, R., Narimes Parakul, Campbell, D., & Thomas, E. (2025, June 17). How Business Insider investigated the true cost of data centers. Business Insider. https://www.businessinsider.com/how-calculate-data-center-cost-environmental-impact-methodology-2025-6
 
-Delaney Dryfoos. (2024, October 6). The majority-Black districts that became Cancer Alley | The Lens. The Lens. https://thelensnola.org/2024/10/06/the-majority-black-districts-that-became-cancer-alley/
+Delaney Dryfoos. (2024, October 6). The majority-Black districts that became Cancer Alley, The Lens. The Lens. https://thelensnola.org/2024/10/06/the-majority-black-districts-that-became-cancer-alley/
 
 FracTracker Petrochem Data Portal. (2025). Fractracker.org. https://petrochem.fractracker.org/
 
@@ -70,9 +70,9 @@ Kofman, A. (2021, November 2). The Most Detailed Map of Cancer-Causing Industria
 
 Louisiana Cancer Maps. (n.d.). Public Health. https://sph.lsuhsc.edu/louisiana-tumor-registry/data-usestatistics/louisiana-data-interactive-statistics/louisiana-cancer-maps/
 
-Martin-Manjaly | 04/20/2023, A. (2023, April 20). The Toxic Toll of Cancer Alley. ArcGIS StoryMaps. https://storymaps.arcgis.com/stories/941607e3f5b4475dbb4b0ab3147a4b3d
+Martin-Manjaly, 04/20/2023, A. (2023, April 20). The Toxic Toll of Cancer Alley. ArcGIS StoryMaps. https://storymaps.arcgis.com/stories/941607e3f5b4475dbb4b0ab3147a4b3d
 
-Maternal and Child Health Data Indicators | La Dept. of Health. (2017). La.gov. https://ldh.la.gov/page/maternal-and-child-health-data-indicators
+Maternal and Child Health Data Indicators, La Dept. of Health. (2017). La.gov. https://ldh.la.gov/page/maternal-and-child-health-data-indicators
 
 Meaders, J. S. (2021). Health Impacts of Petrochemical Expansion in Louisiana and Realistic Options for Affected Communities. Tulane Environmental Law Journal, 34(1), 113–147. JSTOR. https://doi.org/10.2307/27089955
 
@@ -80,7 +80,7 @@ Petrochemical Air Pollution Map. (2025, April 7). Clear Collaborative. https://w
 
 Terrell, K. A., & Julien, G. St. (2023). Discriminatory outcomes of industrial air permitting in Louisiana, United States. Environmental Challenges, 10(2667-0100), 100672. https://doi.org/10.1016/j.envc.2022.100672
 
-The Shocking Hazards of Louisiana’s Cancer Alley | Johns Hopkins Bloomberg School of Public Health. (2025, August 4). Johns Hopkins Bloomberg School of Public Health; Public Health on Call. https://publichealth.jhu.edu/2025/the-shocking-hazards-of-louisianas-cancer-alley
+The Shocking Hazards of Louisiana’s Cancer Alley, Johns Hopkins Bloomberg School of Public Health. (2025, August 4). Johns Hopkins Bloomberg School of Public Health; Public Health on Call. https://publichealth.jhu.edu/2025/the-shocking-hazards-of-louisianas-cancer-alley
 
 ## AI acknowledgements
 
