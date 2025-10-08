@@ -21,12 +21,10 @@ I used percentiles for comparability so readers can see how a tract ranks agains
 
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
 
 I used AI to troubleshoot Tableau joins (GEOID string padding, extract tips); and outline policy and community action sections in plain language.
 
 # Final thoughts
-> You can summarize any final thoughts/reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
 What worked was leaning into the forecast and case analysis, which made the story clearer and more actionable. What I’d add with more time is population-weighted results, a small scenario map for proposed sites, and a tighter uncertainty panel. I’m most excited that the visuals now bridge from Cancer Alley’s lived reality to today’s siting decisions so readers see not just where we are, but how to change course before more corridors look the same.
 
