@@ -1,36 +1,33 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+> Shorthand Link: https://carnegiemellon.shorthandstories.com/the-next-petrochemical-footprint/index.html 
 
-Text here!
+**Reflection on changes since Part II**
 
-# Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+Since part two, I narrowed the focus. I began with Cancer Alley and reproductive disorders. After looking for data, I could not find tract-level, exportable datasets that linked reproductive outcomes to facility proximity in a clean way. I pivoted to forecasting petrochemical buildout and its impacts on nearby neighborhoods, using Cancer Alley as the case example and calibration point. This gave me a clearer story about how clusters form, who lives nearby, what current modeled risk looks like, and what likely happens if siting continues.
 
-Text here!
+My data stack shifted. I moved from small-area health datasets to public, repeatable layers including AirToxScreen and RSEI for modeled cancer risk, EIA and TRI for facility locations, and census tracts and parishes for boundaries. I rebuilt the visuals in ArcGIS and Tableau. I made a baseline tract map shaded by risk percentile with refinery and petrochemical points. I added a corridor versus the rest of Louisiana comparison using average percentiles. I created a source mix view to show industrial versus traffic and ports. I built a national buildout panel that converts projected emissions into coal plant and car equivalents. I also added a product mix forecast comparing 2017 actual with 2027 projected volumes to show why capacity growth locks in emissions. Feedback pushed me to be more policy facing and forward looking with short callouts, uncertainty notes, and a concrete action section.
+
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
 
-Text here!
+My primary audience is policymakers who control siting, zoning, and permits. A secondary audience is community organizations that need clear visuals and language for advocacy. Interviews told me to keep it plain, visual first, and always show what to do next. I adjusted with short captions that state the takeaway, side by side comparisons, and a closing panel that maps findings to actions such as buffers, cumulative impact reviews, monitoring, and equity checks. I added equity context so readers see who bears added risk, not just where plants are.
+
 
 ## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
 
-Text here!
+I used percentiles for comparability so readers can see how a tract ranks against national peers. I combined choropleths with facility points so proximity and pattern are visible in a single frame, and outlined the river parish corridor so clustering is obvious. I explained the growth engine with a 2017 to 2027 product chart. I converted 153.8 MMT per year into familiar equivalents to set the scale. I wrote mobile-friendly labels, used clear color ramps, and placed a short note on limitations under each figure.
 
-## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
 
 ## AI acknowledgements
 > If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
 
-Text here!
+I used AI to troubleshoot Tableau joins (GEOID string padding, extract tips); and outline policy and community action sections in plain language.
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+> You can summarize any final thoughts/reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
 
-Text here!
+What worked was leaning into the forecast and case analysis, which made the story clearer and more actionable. What I’d add with more time is population-weighted results, a small scenario map for proposed sites, and a tighter uncertainty panel. I’m most excited that the visuals now bridge from Cancer Alley’s lived reality to today’s siting decisions so readers see not just where we are, but how to change course before more corridors look the same.
 
 
