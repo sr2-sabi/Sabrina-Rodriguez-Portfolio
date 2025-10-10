@@ -1,7 +1,6 @@
 |[Home Page](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/) | [Projects On Tableau](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/dataviz-examples) | [Visualizing Government Debt](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/visualizing-government-debt) | [Design Evaluations](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/critique-by-design) | [Drafting Final Project Idea](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-one) | [Refining Final Project](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-two) | [Final Project](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-three) |
 
-- Web page URL: [https://cmustudent.github.io/tswd-portfolio-templates/](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/)
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+- Web page URL: [Sabrina's Portfolio](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/)
 
 ## Portfolio
 This portfolio was created as part of 94-870: Telling Stories with Data to demonstrate my ability to translate complex information into clear, compelling visual narratives. Throughout the course, I learned how to move beyond simply presenting numbers to think critically about how data can inform, persuade, and drive social impact.
