@@ -20,17 +20,17 @@ I am always eager to connect with professionals and organizations dedicated to d
 
 ## In-Class Demos 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page links to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
+ADD EXPLANATION HERE 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page links to a new Markdown document called `critique-by-design.md`.  
+## Assignment: [Critique By Design](critique-by-design)
+ADD EXPLANATION HERE
 
 ## Final project Explanation
 
-My project examines how industrial siting decisions disproportionately impact Black, low-income communities. Across the United States, dozens of new petrochemical projects, often cited as roughly 70 are concentrated in places like Louisiana’s Cancer Alley. I focus on how these facilities cluster alongside demographic vulnerability and what that means for community health and well-being. Parish or tract-level reproductive disorder data are limited, so I pivot to defensible proxies and exposure metrics: facility locations and emissions, cumulative environmental burden, and neighborhood demographics. The goal is to make visible where risk concentrates, who lives there, and how policy can respond.
+My project examines how industrial siting decisions disproportionately impact Black, low-income communities. Across the United States, dozens of new petrochemical projects, often cited as roughly 70, are concentrated in places like Louisiana’s Cancer Alley. I focus on how these facilities cluster alongside demographic vulnerability and what that means for community health and well-being. Parish or tract-level reproductive disorder data are limited, so I pivot to defensible proxies and exposure metrics: facility locations and emissions, cumulative environmental burden, and neighborhood demographics. The goal is to make visible where risk concentrates, who lives there, and how policy can respond.
 
-How I Approach It:
+How I Approached It:
 I assemble a reproducible data stack (facilities and emissions, environmental exposure indices, Census/ACS demographics, and available maternal/infant health proxies such as preterm birth or low birth weight, where possible). I then map patterns, compare corridors vs. surrounding regions, and test simple relationships between exposure and vulnerability. The emphasis is on transparency: document assumptions, note data gaps, and show what we can responsibly infer.
 
 What the Tabs Show
