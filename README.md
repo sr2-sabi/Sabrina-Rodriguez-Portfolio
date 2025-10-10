@@ -15,92 +15,23 @@ Currently, as a student at Carnegie Mellon University, I am focused on exploring
 
 I am always eager to connect with professionals and organizations dedicated to driving social impact and advancing equity.
 
-## What I hope to learn
-1. How to be creative using data visualizations
-2. Explore different data programs to expand my skillsets and understanding of data
-3. Develop the ability to translate complex datasets into clear, compelling narratives that can inform policy decisions and engage diverse audiences
-
 ## Portfolio
 
 ## Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+For this assignment, make sure you set up and link to a new page.  This page links to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+For this assignment, make sure you set up and link to a new page.  This page links to a new Markdown document called `critique-by-design.md`.  
 
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+## Final project Explanation
 
----
-## Other stuff you can do (you can remove this section - it's just for your reference.)
+My project examines how industrial siting decisions disproportionately impact Black, low-income communities. Across the United States, dozens of new petrochemical projects, often cited as roughly 70 are concentrated in places like Louisiana’s Cancer Alley. I focus on how these facilities cluster alongside demographic vulnerability and what that means for community health and well-being. Parish or tract-level reproductive disorder data are limited, so I pivot to defensible proxies and exposure metrics: facility locations and emissions, cumulative environmental burden, and neighborhood demographics. The goal is to make visible where risk concentrates, who lives there, and how policy can respond.
 
-### Changing text
+How I Approach It:
+I assemble a reproducible data stack (facilities and emissions, environmental exposure indices, Census/ACS demographics, and available maternal/infant health proxies such as preterm birth or low birth weight, where possible). I then map patterns, compare corridors vs. surrounding regions, and test simple relationships between exposure and vulnerability. The emphasis is on transparency: document assumptions, note data gaps, and show what we can responsibly infer.
 
-You can change text, like this: 
-
-**Here's some bold** text.  Here's some *italic* text. Here's some ~~strikethrough~~ text. 
-
-### Creating tables
-
-You can build tables like this: 
-
-| Name         | Type of pet | Favority activity 1 | FA 2   | FA 3            | FA 4                                |
-|--------------|-------------|---------------------|--------|-----------------|-------------------------------------|
-| Eli          | cat         | Sleeping            | Eating | Being pet       | Plotting to overthow dog empire     |
-| Howard       | dog         | You                 | You    | You             | Eating                              |
-| Frankenstein | fish        | Swimming            | Eating | Blowing bubbles | Forgetting                          |
-
-An easy-to-use template generator tool [can be found here](https://www.tablesgenerator.com/markdown_tables)
-
-You can use different headings, like this: 
-
-# Here's a large title (H1)
-## Here's a subtitle (H2)
-### ...and so on (H3)
-You get the idea - just don't forget the space between the # and your title.  `#Title` won't work, but `# Title` will. 
-
-### Adding images
-
-Here's an example of how to add an image to my portfolio.  
-
-![funny dog picture](funny-dog-unsplash.jpg)
-> Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-
-Alternately, you can set the size of the image using just a bit of HTML: 
-
-<img src="funny-dog-unsplash.jpg" width="200"/>
-
-Remember that you'll need to upload the image into your repository, or include a link to the image somewhere else.  
-
-### Setting up a separate page
-
-So here's the code you'll need to add to your own site to create a second page. 
-
-1. First, create a new page in your repository (for example, dataviz1.md)
-2. Next, add a link to that page by inserting the following into your readme.md page:
-
-`[title](dataviz)` or `[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` or `[CMU](https://www.cmu.edu)`
-
-Any of those formats will work. Here's some examples of working links: 
-
-`[title](dataviz)` = [title](dataviz)  
-`[dataviz](https://cmustudent.github.io/portfolio/dataviz.html)` = [dataviz](https://cmustudent.github.io/portfolio/dataviz.html)  
-`[CMU](https://www.cmu.edu)` = [CMU](https://www.cmu.edu)   
-
-Make sure to check these from your publicly accessible URL to make sure they're working correctly (not from the preview tab). 
-
-Looking for more?  A nice Markdown guide [can be found here](https://www.markdownguide.org/cheat-sheet/)
-
-## References
-_List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+What the Tabs Show
+The three tabs above walk through my process step by step: how I scoped the problem and framed the research questions, how I gathered and cleaned the data, and how I translated findings into visuals and policy-relevant insights. Together, they show my workflow from idea to evidence to action.
