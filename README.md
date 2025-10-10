@@ -18,8 +18,6 @@ Currently, as a student at Carnegie Mellon University, I am focused on exploring
 
 I am always eager to connect with professionals and organizations dedicated to driving social impact and advancing equity.
 
-## Portfolio
-
 ## In-Class Demos 
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
