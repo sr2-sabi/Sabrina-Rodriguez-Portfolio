@@ -85,4 +85,6 @@ This chart compares average modeled cancer-risk percentiles between tracts locat
 
 This bar chart compares actual U.S. petrochemical production volumes in 2017 with projected 2027 levels, showing strong expected growth in ethylene, propylene, and benzene output.
 
+Source: https://www.statista.com/statistics/1098199/us-petrochemical-market-size-by-product/
+
 <img width="793" height="638" alt="data_viz_one" src="https://github.com/user-attachments/assets/7e142ef3-da66-4c1e-826d-a7809dd4daef" />
