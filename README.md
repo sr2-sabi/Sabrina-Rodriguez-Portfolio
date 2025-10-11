@@ -25,8 +25,7 @@ Currently, as a student at Carnegie Mellon University, I am focused on exploring
 
 I am always eager to connect with professionals and organizations dedicated to driving social impact and advancing equity.
 
-Learn more about my other projects:
-- Linkedin: [Linkedin Profile](www.linkedin.com/in/sabrina-rodriguez-cmu)
+Learn more about my other projects: [Linkedin Profile](www.linkedin.com/in/sabrina-rodriguez-cmu)
 
 ## In-Class Demos 
 
