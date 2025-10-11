@@ -5,39 +5,6 @@
   }
 </style>
 
-<style>
-/* Load a pixel font */
-@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;700&display=swap');
-
-/* Make the main page title pixel-y + pink */
-.markdown-body h1:first-of-type {
-  font-family: "Pixelify Sans", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
-  font-weight: 700;
-  letter-spacing: 1px;
-  text-transform: none;
-  color: #7a3551;          /* deep rose to match your palette */
-  text-shadow: 2px 2px 0 #f7c7d4, 4px 4px 0 #e7a7bc; /* soft pixel shadow */
-  display: inline-block;
-  padding: .15rem .4rem;
-  background: #ffe6ee;
-  border: 2px solid #e7a7bc;
-  border-radius: 8px;
-}
-
-/* Optional: cute tabs to match */
-.markdown-body table a {
-  font-family: "Pixelify Sans", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
-  color: #6a2f47;
-}
-.markdown-body table a:hover {
-  background: #ffd3e3;
-  border-radius: 6px;
-  text-decoration: none;
-  padding: 2px 6px;
-}
-</style>
-
-
 |[Home Page](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/) | [Projects On Tableau](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/dataviz-examples) | [Visualizing Government Debt](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/visualizing-government-debt) | [Critique By Design](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/critique-by-design) | [Drafting Final Project Idea](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-one) | [Refining Final Project](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-two) | [Final Project](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-three) |
 
 ## Portfolio
