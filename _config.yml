@@ -1,4 +1,8 @@
 title: Sabrina Rodriguez Portfolio
-remote_theme: mmistakes/minimal-mistakes
+description: Policy, Data Visualization, and Social Impact Projects
+remote_theme: cotes2020/jekyll-theme-chirpy
 plugins:
   - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
