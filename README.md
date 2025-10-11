@@ -21,7 +21,7 @@ I am always eager to connect with professionals and organizations dedicated to d
 ## In-Class Demos 
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-ADD EXPLANATION HERE 
+This project redesigns a simple holiday spending chart into a multi-line visualization showing how Americans have increasingly prioritized family over friends and coworkers in their gift spending from 2004 to 2021.
 
 ## Assignment: [Critique By Design](critique-by-design)
 ADD EXPLANATION HERE
