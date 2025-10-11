@@ -24,7 +24,7 @@ I am always eager to connect with professionals and organizations dedicated to d
 This project redesigns a simple holiday spending chart into a multi-line visualization showing how Americans have increasingly prioritized family over friends and coworkers in their gift spending from 2004 to 2021.
 
 ## Assignment: [Critique By Design](critique-by-design)
-ADD EXPLANATION HERE
+From 2004 to 2021, U.S. holiday gift spending increasingly centered on family while purchases for friends and coworkers declined, a shift clarified by a category-focused line chart with key-year annotations.
 
 ## Final project Explanation
 
