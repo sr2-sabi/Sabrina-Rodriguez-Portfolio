@@ -11,8 +11,7 @@ My portfolio highlights the full process of storytelling with data: from refinin
 Together, these works showcase not only my technical skills in visualization and analysis but also my broader commitment to using data responsibly to amplify underrepresented stories and guide more equitable decision-making.
 
 ## About me
-<img src="/sabrina_profile_pic_three_resized.jpg" alt="Sabrina Rodriguez" width="60%">
-
+<img width="393" height="521" alt="screenshot_sabrina" src="https://github.com/user-attachments/assets/ccc7f114-1103-4449-a9d5-fc9442eb3ab4" />
 
 As a first-generation Afro-Latina, I have personally witnessed the barriers immigrant families face in accessing healthcare, particularly due to concerns about citizenship status. This experience has fueled my passion for advocating for equitable healthcare solutions.
 
