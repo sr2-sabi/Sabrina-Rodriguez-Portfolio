@@ -1,6 +1,8 @@
 <style>
-  body { background:#fff5fa; }           /* soft blush */
-  .markdown-body, .main-content, .page { background:#fff5fa; } /* keep content white */
+  body { background-color: #c48b9f; } /* soft rose background */
+  .markdown-body, .page, .main-content {
+    background-color: #ffffff;        /* keep content white */
+  }
 </style>
 
 
