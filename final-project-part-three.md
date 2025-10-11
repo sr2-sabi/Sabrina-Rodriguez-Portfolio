@@ -4,6 +4,7 @@
 
 <script src="https://carnegiemellon.shorthandstories.com/the-next-petrochemical-footprint/embed.js"></script>
 
+
 **Reflection on Changes Since Part II**
 
 Since part two, I narrowed the focus. I began with Cancer Alley and reproductive disorders. After looking for data, I could not find tract-level, exportable datasets that linked reproductive outcomes to facility proximity in a clean way. I pivoted to forecasting petrochemical buildout and its impacts on nearby neighborhoods, using Cancer Alley as the case example and calibration point. This gave me a clearer story about how clusters form, who lives nearby, what current modeled risk looks like, and what likely happens if siting continues.
