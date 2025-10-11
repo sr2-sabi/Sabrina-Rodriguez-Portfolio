@@ -8,9 +8,6 @@
 
 |[Home Page](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/) | [Projects On Tableau](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/dataviz-examples) | [Visualizing Government Debt](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/visualizing-government-debt) | [Critique By Design](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/critique-by-design) | [Drafting Final Project Idea](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-one) | [Refining Final Project](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-two) | [Final Project](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-three) |
 
-- Web page URL: [Sabrina's Portfolio](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/)
-- Linkedin: [Linkedin Profile](www.linkedin.com/in/sabrina-rodriguez-cmu)
-
 ## Portfolio
 This portfolio was created as part of 94-870: Telling Stories with Data to demonstrate my ability to translate complex information into clear, compelling visual narratives. Throughout the course, I learned how to move beyond simply presenting numbers to think critically about how data can inform, persuade, and drive social impact.
 
@@ -28,6 +25,9 @@ At Allegheny College, I combined my interest in technology and policy through re
 Currently, as a student at Carnegie Mellon University, I am focused on exploring the intersection of policy, technology, and healthcare. My primary interest lies in the ethical application of AI to enhance healthcare access for underserved communities. I am eager to collaborate with professionals who share a commitment to public service and social justice to drive impactful change.
 
 I am always eager to connect with professionals and organizations dedicated to driving social impact and advancing equity.
+
+Learn more about my other projects:
+- Linkedin: [Linkedin Profile](www.linkedin.com/in/sabrina-rodriguez-cmu)
 
 ## In-Class Demos 
 
