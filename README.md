@@ -1,6 +1,7 @@
 |[Home Page](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/) | [Projects On Tableau](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/dataviz-examples) | [Visualizing Government Debt](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/visualizing-government-debt) | [Critique By Design](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/critique-by-design) | [Drafting Final Project Idea](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-one) | [Refining Final Project](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-two) | [Final Project](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-three) |
 
 - Web page URL: [Sabrina's Portfolio](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/)
+- Linkedin: [Linkedin Profile](www.linkedin.com/in/sabrina-rodriguez-cmu)
 
 ## Portfolio
 This portfolio was created as part of 94-870: Telling Stories with Data to demonstrate my ability to translate complex information into clear, compelling visual narratives. Throughout the course, I learned how to move beyond simply presenting numbers to think critically about how data can inform, persuade, and drive social impact.
@@ -10,6 +11,9 @@ My portfolio highlights the full process of storytelling with data: from refinin
 Together, these works showcase not only my technical skills in visualization and analysis but also my broader commitment to using data responsibly to amplify underrepresented stories and guide more equitable decision-making.
 
 ## About me
+<img src="/sabrina_profile_pic_three_resized.jpg" alt="Sabrina Rodriguez" width="60%">
+
+
 As a first-generation Afro-Latina, I have personally witnessed the barriers immigrant families face in accessing healthcare, particularly due to concerns about citizenship status. This experience has fueled my passion for advocating for equitable healthcare solutions.
 
 At Allegheny College, I combined my interest in technology and policy through research projects, including a comparative analysis of peacekeeping efforts and the development of a data management program for educational resources.
