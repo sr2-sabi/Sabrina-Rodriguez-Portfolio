@@ -88,7 +88,7 @@ I changed to a multi-line time series. Every country remains visible in light gr
 
 ## Design Decisions and Trade-offs
 - **Color hierarchy:** muted gray for context and bold color for focus. This helps viewers distinguish the outliers instantly.  
-- **Benchmarking:** the dashed line provides a fixed comparison that shows how extreme the top countries are compared to the global mean.  
+- **Benchmarking:** The dashed line provides a fixed comparison that shows how extreme the top countries are compared to the global mean.  
 - **Simplicity:** removing animation and dynamic ranking made the chart easier to read and understand.  
 - **Trade-off:** single-year spikes are less visible than in the heatmap, but the final view better highlights long-term debt patterns.
 
