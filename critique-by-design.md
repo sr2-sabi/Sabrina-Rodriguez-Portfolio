@@ -1,5 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
-
+|[Home Page](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/) | [Projects On Tableau](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/dataviz-examples) | [Visualizing Government Debt](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/visualizing-government-debt) | [Critique By Design](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/critique-by-design) | [Drafting Final Project Idea](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-one) | [Refining Final Project](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-two) | [Final Project](https://sr2-sabi.github.io/Sabrina-Rodriguez-Portfolio/final-project-part-three) |
 # Family First: American Holiday Spending Has Shifted Away from Friends and Coworkers (2004–2021)
 
 ## Step one: the visualization
