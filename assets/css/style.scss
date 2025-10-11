@@ -2,7 +2,19 @@
 ---
 
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;700&display=swap');
 
-/* your overrides */
-body { background:#fff5fa; }
-.markdown-body, .main-content, .page { background:#ffffff; }
+.markdown-body h1:first-of-type {
+  font-family: "Pixelify Sans", system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  font-weight: 700;
+  letter-spacing: 1px;
+  color: #7a3551;
+  text-shadow: 2px 2px 0 #f7c7d4, 4px 4px 0 #e7a7bc;
+  display: inline-block;
+  padding: .15rem .4rem;
+  background: #ffe6ee;
+  border: 2px solid #e7a7bc;
+  border-radius: 8px;
+}
+.markdown-body table a { font-family: "Pixelify Sans", system-ui, -apple-system, Segoe UI, Roboto, sans-serif; color:#6a2f47; }
+.markdown-body table a:hover { background:#ffd3e3; border-radius:6px; text-decoration:none; padding:2px 6px; }
