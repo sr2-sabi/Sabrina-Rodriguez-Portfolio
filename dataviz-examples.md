@@ -91,7 +91,6 @@ Source: https://www.statista.com/statistics/1098199/us-petrochemical-market-size
 
 ### Family First: How American Holiday Spending Shifted from Friends and Coworkers to Family (2004–2021)
 
-<!-- Holiday Spending Visualization -->
 <div class="tableauPlaceholder" id="vizHolidaySpending" style="position:relative">
   <noscript>
     <a href="#">
@@ -123,19 +122,15 @@ Source: https://www.statista.com/statistics/1098199/us-petrochemical-market-size
   (function () {
     var divElement = document.getElementById('vizHolidaySpending');
     var vizElement = divElement.getElementsByTagName('object')[0];
-
     function resizeViz() {
       var w = divElement.offsetWidth;
       vizElement.style.width = '100%';
       vizElement.style.height = (w * 0.75) + 'px'; // 4:3-ish ratio; adjust if needed
     }
-
     resizeViz();
     window.addEventListener('resize', resizeViz);
-
     var scriptElement = document.createElement('script');
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
   })();
 </script>
-
