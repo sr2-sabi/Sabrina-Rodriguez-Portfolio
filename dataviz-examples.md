@@ -6,6 +6,8 @@
 
 This visualization highlights the three countries with the highest average debt-to-GDP ratios from 1995 to 2019, showing how they compare against overall global debt trends.
 
+Source: https://www.oecd.org/en/data/indicators/general-government-debt.html Accessed on September 6, 2025
+
 <div class='tableauPlaceholder' id='viz1760144559211' style='position: relative'>
   <noscript>
     <a href='#'>
