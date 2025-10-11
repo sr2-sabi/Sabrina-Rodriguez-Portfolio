@@ -1,5 +1,5 @@
 <style>
-  body { background:#fff5fa; }           /* soft blush */
+  body { background:#eefcf6; }           /* soft blush */
   .markdown-body, .main-content, .page { background:#ffffff; } /* keep content white */
 </style>
 
