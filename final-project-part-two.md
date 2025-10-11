@@ -2,7 +2,6 @@
 
 # Wireframes/storyboards
 
-Link to Shorthand Draft: https://preview.shorthand.com/ZAXvojOhxOi3i5vs/responsive/desktop 
 <img width="1500" height="800" alt="cancer_alley_NEW" src="https://github.com/user-attachments/assets/72f9e889-59be-4ee4-851f-ba3d9fdc07a3" />
 <img width="800" height="517" alt="cancer_alley_map picture" src="https://github.com/user-attachments/assets/f69d858b-8443-460a-a4bf-d62701b10967" />
 <img width="800" height="405" alt="THIS ONE" src="https://github.com/user-attachments/assets/c7bbbbf9-e8cd-4199-9f5b-e9de9f77dd4e" />
