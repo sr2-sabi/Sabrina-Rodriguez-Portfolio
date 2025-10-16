@@ -39,8 +39,5 @@ From 2004 to 2021, U.S. holiday gift spending increasingly centered on family wh
 
 My project examines how industrial siting decisions disproportionately impact Black, low-income communities. Across the United States, dozens of new petrochemical projects, often cited as roughly 70, are concentrated in places like Louisiana’s Cancer Alley. I focus on how these facilities cluster alongside demographic vulnerability and what that means for community health and well-being. Parish or tract-level reproductive disorder data are limited, so I pivot to defensible proxies and exposure metrics: facility locations and emissions, cumulative environmental burden, and neighborhood demographics. The goal is to make visible where risk concentrates, who lives there, and how policy can respond.
 
-How I Approached It:
-I assemble a reproducible data stack (facilities and emissions, environmental exposure indices, Census/ACS demographics, and available maternal/infant health proxies such as preterm birth or low birth weight, where possible). I then map patterns, compare corridors vs. surrounding regions, and test simple relationships between exposure and vulnerability. The emphasis is on transparency: document assumptions, note data gaps, and show what we can responsibly infer.
-
 What the Tabs Show
 The three tabs above walk through my process step by step: how I scoped the problem and framed the research questions, how I gathered and cleaned the data, and how I translated findings into visuals and policy-relevant insights. Together, they show my workflow from idea to evidence to action.
